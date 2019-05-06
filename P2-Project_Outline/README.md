@@ -29,3 +29,5 @@ Amazon's API
 
 ### What I'll Have to Learn
 I will need to learn how to add Amazon's API.  I want to add bootstrap to this app to make it stylistically look better than other projects I've developed.  I would also like to learn how to potentially make this a mobile application.
+
+Pivotal Tracker link - https://www.pivotaltracker.com/n/projects/2345596
