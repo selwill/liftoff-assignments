@@ -20,4 +20,5 @@ https://www.pivotaltracker.com/n/projects/2345596
 
 ### Project Repo Link
 
+https://github.com/selwill/media-catalog.git
 (Include a link to your project on GitHub)
