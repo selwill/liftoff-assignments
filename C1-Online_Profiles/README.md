@@ -8,9 +8,12 @@ For this assignment you will need to upload your resume, and provide links to yo
  
 ### GitHub
 Provide a link to your GitHub account here.
+
+https://github.com/selwill
  
 ### LinkedIn
 Provide a link to your LinkedIn account here.
+https://linkedin.com/in/selwynwilliams
 
 ### Resume
 You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.
